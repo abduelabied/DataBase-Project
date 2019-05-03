@@ -1,0 +1,12 @@
+E:\FCI-CU 2017\Second Year-2018 -2019\Seconed Smester\Database\Project\DataBase\DataBase\bin\Debug\DataBase.exe.config
+E:\FCI-CU 2017\Second Year-2018 -2019\Seconed Smester\Database\Project\DataBase\DataBase\bin\Debug\DataBase.exe
+E:\FCI-CU 2017\Second Year-2018 -2019\Seconed Smester\Database\Project\DataBase\DataBase\bin\Debug\DataBase.pdb
+E:\FCI-CU 2017\Second Year-2018 -2019\Seconed Smester\Database\Project\DataBase\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+E:\FCI-CU 2017\Second Year-2018 -2019\Seconed Smester\Database\Project\DataBase\DataBase\obj\Debug\DataBase.Form1.resources
+E:\FCI-CU 2017\Second Year-2018 -2019\Seconed Smester\Database\Project\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+E:\FCI-CU 2017\Second Year-2018 -2019\Seconed Smester\Database\Project\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+E:\FCI-CU 2017\Second Year-2018 -2019\Seconed Smester\Database\Project\DataBase\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+E:\FCI-CU 2017\Second Year-2018 -2019\Seconed Smester\Database\Project\DataBase\DataBase\obj\Debug\DataBase.exe
+E:\FCI-CU 2017\Second Year-2018 -2019\Seconed Smester\Database\Project\DataBase\DataBase\obj\Debug\DataBase.pdb
+E:\FCI-CU 2017\Second Year-2018 -2019\Seconed Smester\Database\Project\DataBase\DataBase\obj\Debug\DataBase.Form2.resources
+E:\FCI-CU 2017\Second Year-2018 -2019\Seconed Smester\Database\Project\DataBase\DataBase\obj\Debug\DataBase.Category.resources
